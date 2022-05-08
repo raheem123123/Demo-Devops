@@ -2,3 +2,6 @@ Working Area
 Staging Area
 Commiting 
 Git Status
+123
+abc
+Raheem
