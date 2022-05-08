@@ -1,0 +1,4 @@
+Working Area 
+Staging Area
+Commiting 
+Git Status
