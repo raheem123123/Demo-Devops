@@ -20,3 +20,5 @@ Mocky
 Jenkins 
 tomcat 
 Maven 
+Docker
+Pipeline 
